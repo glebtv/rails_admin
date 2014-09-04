@@ -34,4 +34,3 @@ module RailsAdmin
   end
 end
 
-require 'rails_admin/bootstrap-sass' unless defined? Bootstrap
